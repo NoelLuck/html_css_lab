@@ -1,0 +1,22 @@
+h2 {
+    color: #aad767;
+}
+.purple-font{
+    color: #c040c0;
+}
+.purple-font p {
+    color: #771577;
+}
+
+a {
+    color: white;
+    background-color: rosybrown;
+}
+
+a:hover{
+ background-color: antiquewhite;
+}
+
+thead{
+    background-color: #c48db7;
+}
